@@ -10,18 +10,34 @@ namespace PraesentationGruppeC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Geben Sie Ihren Namen ein");
-
             string name;
             name = Console.ReadLine();
 
-            if (name == "Merve")
-                Console.WriteLine("Hallo, Merve");
-            if (name == "Jonathan")
-                Console.WriteLine("Hallo, Jonathan");
-            else
-                Console.WriteLine("Du bist nicht in Gruppe C");
+            {
+                if (name == "Ming")
+                {
+                    Console.WriteLine("Hallo, Ming");
+                }
+                else if (name == "Merve")
+                {
+                    Console.WriteLine("Hallo, Merve");
+                }
+                else if (name == "Jonathan")
+                {
+                    Console.WriteLine("Hallo, Jonathan ");
+                }
+                else if (name == "Claude")
+                {
+                    Console.WriteLine("Hallo, Claude");
+                }
+                else
+                {
+                    Console.WriteLine("Du bist nicht in Gruppe C");
+                }
+               
+            }
             
+
             Console.ReadKey();
         }
     }
