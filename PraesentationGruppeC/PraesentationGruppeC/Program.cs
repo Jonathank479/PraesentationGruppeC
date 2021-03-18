@@ -10,7 +10,7 @@ namespace PraesentationGruppeC
     {
         static void Main(string[] args)// hiiii
         {
-            Console.WriteLine("helloworld");// HALLO
+            Console.WriteLine("helloworld");// HALLOuuu
         }
     }
 }
