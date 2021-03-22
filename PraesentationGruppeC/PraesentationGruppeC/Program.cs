@@ -30,7 +30,7 @@ namespace PraesentationGruppeC
                 {
                     Console.WriteLine("Hallo, Jonathan "); //KOMMENTAR
                 }
-                else if (name == "Claude")
+                else if (name == "Claude") //KONFLIKT
                 {
                     Console.WriteLine("Hallo, Claude");
                 }
