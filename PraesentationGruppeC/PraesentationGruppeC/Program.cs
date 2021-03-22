@@ -15,7 +15,11 @@ namespace PraesentationGruppeC
 
 
             {
+
                 if (name == "Ming")//konflikkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkt
+
+                if (name == "Ming") // MINGMING
+
                 {
                     Console.WriteLine("Hallo, Ming");
                 }
