@@ -24,7 +24,7 @@ namespace PraesentationGruppeC
                 }
                 else if (name == "Merve")
                 {
-                    Console.WriteLine("Hallo, Merve"); //hi
+                    Console.WriteLine("Hallo, Merve"); //hihhhhhh
                 }
                 else if (name == "Jonathan")
                 {
