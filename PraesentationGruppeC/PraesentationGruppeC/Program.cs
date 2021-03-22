@@ -14,6 +14,9 @@ namespace PraesentationGruppeC
             name = Console.ReadLine();
 
 
+
+
+
             {
                 if (name == "Ming")
                 {
@@ -38,7 +41,6 @@ namespace PraesentationGruppeC
                
             }
 
-            
 
             Console.ReadKey();
         }
