@@ -17,18 +17,18 @@ namespace PraesentationGruppeC
             {
 
 
-                if (name == "Ming") // MINGMING
+                if (name == "Ming") // MINGG
 
                 {
                     Console.WriteLine("Hallo, Ming");
                 }
                 else if (name == "Merve")
                 {
-                    Console.WriteLine("Hallo, Merve"); //hihhhhhh
+                    Console.WriteLine("Hallo, Merve");
                 }
                 else if (name == "Jonathan")
                 {
-                    Console.WriteLine("Hallo, Jonathan "); //KOMMENTAR
+                    Console.WriteLine("Hallo, Jonathan ");
                 }
                 else if (name == "Claude")
                 {
