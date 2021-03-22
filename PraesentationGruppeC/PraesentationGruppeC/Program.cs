@@ -16,7 +16,6 @@ namespace PraesentationGruppeC
 
             {
 
-                if (name == "Ming")//konflikkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkt
 
                 if (name == "Ming") // MINGMING
 
@@ -29,7 +28,7 @@ namespace PraesentationGruppeC
                 }
                 else if (name == "Jonathan")
                 {
-                    Console.WriteLine("Hallo, Jonathan ");
+                    Console.WriteLine("Hallo, Jonathan "); //KOMMENTAR
                 }
                 else if (name == "Claude")
                 {
