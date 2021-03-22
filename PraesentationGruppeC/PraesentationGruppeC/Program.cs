@@ -18,7 +18,7 @@ namespace PraesentationGruppeC
 
 
             {
-                if (name == "Ming")
+                if (name == "Ming") // MINGMING
                 {
                     Console.WriteLine("Hallo, Ming");
                 }
