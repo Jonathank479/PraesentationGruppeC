@@ -13,6 +13,7 @@ namespace PraesentationGruppeC
             string name;
             name = Console.ReadLine();
 
+<<<<<<< Updated upstream
             {
                 if (name == "Ming")
                 {
@@ -36,6 +37,16 @@ namespace PraesentationGruppeC
                 }
                
             }
+=======
+            if (name == "Merve")
+                Console.WriteLine("Hallo, Merve");
+            if (name == "Jonathan")
+                Console.WriteLine("Hallo, Jonathan");
+            if (name == "Djongoue")
+                Console.WriteLine("Hallo, Djongoue");
+            else
+                Console.WriteLine("Du bist nicht in Gruppe C");
+>>>>>>> Stashed changes
             
 
             Console.ReadKey();
