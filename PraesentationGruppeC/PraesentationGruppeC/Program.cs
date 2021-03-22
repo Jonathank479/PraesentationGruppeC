@@ -14,11 +14,8 @@ namespace PraesentationGruppeC
             name = Console.ReadLine();
 
 
-
-
-
             {
-                if (name == "Ming")
+                if (name == "Ming")//konflikkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkt
                 {
                     Console.WriteLine("Hallo, Ming");
                 }
