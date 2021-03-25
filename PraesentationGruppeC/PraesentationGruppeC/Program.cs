@@ -26,20 +26,20 @@ namespace PraesentationGruppeC
                 else if (name == "Merve")
                 {
 
-                    Console.WriteLine("Hallo, Merve");
+                    Console.WriteLine("Hallo, Merve");//你好，美味我
                 }
-                else if (name == "Jonathan")
+                else if (name == "Jonathan")//你好，雍堂涵
                 {
                     Console.WriteLine("Hallo, Jonathan ");
 
                 }
                 else if (name == "Claude")
                 {
-                    Console.WriteLine("Hallo, Claude");
+                    Console.WriteLine("Hallo, Claude");//你好，克劳德
                 }
                 else
                 {
-                    Console.WriteLine("Du bist nicht in Gruppe C");
+                    Console.WriteLine("Du bist nicht in Gruppe C");//你不在C组中
                 }
                
             }
