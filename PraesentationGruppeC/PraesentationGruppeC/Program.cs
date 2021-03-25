@@ -24,10 +24,7 @@ namespace PraesentationGruppeC
                     Console.WriteLine("Hallo, Ming");
                 }
                 else if (name == "Merve")
-                {
-
-
-                    Console.WriteLine("Hallo, Merve"); //Ausgabe Zeichenkette
+                { }
                     
 
                     Console.WriteLine("Hallo, Merve");//Konflikt wird erzeugt
