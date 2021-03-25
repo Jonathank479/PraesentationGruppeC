@@ -21,7 +21,7 @@ namespace PraesentationGruppeC
                 if (name == "Ming")
 
                 {
-                    Console.WriteLine("Hallo, Ming");//oder kann man auch sagen 你好，铭
+                    Console.WriteLine("Hallo, Ming");
                 }
                 else if (name == "Merve")
                 {
