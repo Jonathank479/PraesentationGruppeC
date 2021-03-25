@@ -26,9 +26,13 @@ namespace PraesentationGruppeC
                 else if (name == "Merve")
                 {
 
+
                     Console.WriteLine("Hallo, Merve"); //Ausgabe Zeichenkette
                     
-                }
+
+                    Console.WriteLine("Hallo, Merve");//Konflikt wird erzeugt
+
+                
                 else if (name == "Jonathan")
                 {
                     Console.WriteLine("Hallo, Jonathan ");
