@@ -18,19 +18,14 @@ namespace PraesentationGruppeC
 
 
 
-                if (name == "Ming")
+                if (name == "Ming")//halllo
 
                 {
                     Console.WriteLine("Hallo, Ming");
                 }
                 else if (name == "Merve")
-<<<<<<< Updated upstream
 
                 {
-=======
-                {
-
->>>>>>> Stashed changes
                     Console.WriteLine("Hallo, Merve");
 
                 }
