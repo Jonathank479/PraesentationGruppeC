@@ -27,7 +27,7 @@ namespace PraesentationGruppeC
                 { }
                     
 
-                    Console.WriteLine("Hallo, Merve");//Konflikt wird erzeugt
+                    Console.WriteLine("Hallo, Merve");//Konflikt wird erzeugt ,,,
 
                 
                 else if (name == "Jonathan")
