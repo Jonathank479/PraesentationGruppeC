@@ -24,12 +24,11 @@ namespace PraesentationGruppeC
                     Console.WriteLine("Hallo, Ming");
                 }
                 else if (name == "Merve")
-                { }
-                    
 
-                    Console.WriteLine("Hallo, Merve");//Konflikt wird erzeugt ,,,
+                {
+                    Console.WriteLine("Hallo, Merve");
 
-                
+                }
                 else if (name == "Jonathan")
                 {
                     Console.WriteLine("Hallo, Jonathan ");
