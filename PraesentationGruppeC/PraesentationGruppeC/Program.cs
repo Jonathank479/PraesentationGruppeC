@@ -18,14 +18,21 @@ namespace PraesentationGruppeC
 
 
 
+
                 if (name == "Ming")//halllo
+
+                if (name == "Ming") //If- Block: Wird ausgeführt, wenn (...) 
+
 
                 {
                     Console.WriteLine("Hallo, Ming");
                 }
                 else if (name == "Merve")
 
+
                 {
+
+
                     Console.WriteLine("Hallo, Merve");
 
                 }
