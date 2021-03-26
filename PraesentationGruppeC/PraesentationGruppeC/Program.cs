@@ -17,7 +17,7 @@ namespace PraesentationGruppeC
             {
 
 
-                if (name == "Ming")//Kommentar hinzufügen hallo
+                if (name == "Ming")//Kommentar hinzufügen hallo änderung
 
                 if (name == "Ming")//Kommentar你好，董明
 
