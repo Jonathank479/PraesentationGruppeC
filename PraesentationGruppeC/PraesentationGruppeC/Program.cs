@@ -16,6 +16,18 @@ namespace PraesentationGruppeC
 
             {
 
+<<<<<<< HEAD
+                if (name == "Ming")
+=======
+
+
+                if (name == "Ming")//Kommentar hinzufügen hallo änderung
+
+                if (name == "Ming")//Kommentar你好，董明
+>>>>>>> f949f9f4eb6dcaa27b85a4f3bf3081d8f31d434f
+
+
+
                 if (name == "Ming")
 
                 {
